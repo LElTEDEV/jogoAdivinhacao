@@ -1,4 +1,4 @@
-# 🧠 Adivinhe - Jogo de Palavras
+# Adivinhe - Jogo de Palavras
 
 Um jogo interativo de adivinhação de palavras desenvolvido com **React + Vite**, estilizado com **TailwindCSS** e **CVA (Class Variance Authority)**, e escrito em **TypeScript**.
 
