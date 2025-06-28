@@ -18,7 +18,11 @@ export function Header({ current = 0, max = 0, onRestart }: Props) {
           de {max} tentativas
         </span>
 
-        <button onClick={onRestart} type="button">
+        <button
+          onClick={onRestart}
+          type="button"
+          className="focus:outline-violet-500"
+        >
           <img
             className="h-8 transition ease-in cursor-pointer hover:scale-105 hover:animate-spin"
             src={refreshSvg}
