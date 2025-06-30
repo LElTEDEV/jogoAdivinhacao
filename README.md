@@ -2,7 +2,7 @@
 
 Um jogo interativo de adivinhação de palavras desenvolvido com **React + Vite**, estilizado com **TailwindCSS** e **CVA (Class Variance Authority)**, e escrito em **TypeScript**.
 
-![Adivinhe Preview](./src/assets/adivinhe.png) <!-- Altere para o caminho correto da imagem no seu repositório -->
+![Adivinhe Preview](./src/assets/adivinhe.png)
 
 ## ✨ Sobre o Projeto
 
